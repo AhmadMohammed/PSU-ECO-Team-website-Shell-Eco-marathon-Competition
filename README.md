@@ -1,4 +1,4 @@
-# PSU-ECO-Team-website-Shell-Eco-marathon-Competition
+# PSU ECO Team website Shell Eco-marathon Competition
 Shell Eco-marathon is a competition for High School and University Student Teams around the world providing a collaborative platform to get hands-on experience in achieving ultra-energy-efficiency. There are Challenger Events for first-time teams, and Regional Events for qualified teams.
 
 Around the world the programme inspires thousands of students to work collaboratively to put their theories of energy-efficiency to the test, using cutting-edge technology, critical thinking, and innovative ideas.
